@@ -1383,7 +1383,7 @@ body {
 }
 .cid-rbOJjlI6XJ {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rbOJjlI6XJ .mbr-section-subtitle {
@@ -1417,9 +1417,6 @@ body {
 .cid-rbOJjlI6XJ .team-item .item-social .socicon {
   color: #232323;
   font-size: 17px;
-}
-.cid-rbOJjlI6XJ .team-item .item-caption {
-  background: #ffffff;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
@@ -1809,6 +1806,43 @@ body {
 .cid-qTkzRZLJNu .nav-link:hover,
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
+}
+.cid-rbOLf7AxvB {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rbOLf7AxvB .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rbOLf7AxvB .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rbOLf7AxvB .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-rbOLf7AxvB .team-item .item-image img {
+  width: 100%;
+}
+.cid-rbOLf7AxvB .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-rbOLf7AxvB .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-rbOLf7AxvB .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-rbOLf7AxvB .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
 }
 .cid-rbOE8Q0jJi {
   padding-top: 30px;
