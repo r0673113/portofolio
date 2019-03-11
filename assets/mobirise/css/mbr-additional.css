@@ -42,10 +42,10 @@ body {
 }
 .display-5 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1.5rem;
+  font-size: 0.6rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 2.4rem;
+  font-size: 0.96rem;
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
@@ -76,9 +76,9 @@ body {
     line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.2rem;
-    font-size: calc( 1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.48rem;
+    font-size: calc( 0.86rem + (0.6 - 0.86) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (0.86rem + (0.6 - 0.86) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -1852,7 +1852,7 @@ body {
   text-align: right;
 }
 .cid-rbOE8Q0jJi {
-  padding-top: 120px;
+  padding-top: 60px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
@@ -2379,7 +2379,7 @@ body {
   color: #232323;
 }
 .cid-rj5QxLIuvy {
-  padding-top: 120px;
+  padding-top: 60px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
@@ -2887,7 +2887,7 @@ body {
   color: #232323;
 }
 .cid-rj5QVBjHn0 {
-  padding-top: 120px;
+  padding-top: 60px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
@@ -3384,7 +3384,7 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-rj5R3bGna3 {
-  padding-top: 120px;
+  padding-top: 60px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
@@ -3916,7 +3916,7 @@ body {
   }
 }
 .cid-rjpxhEqepm {
-  padding-top: 30px;
+  padding-top: 60px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
@@ -4393,7 +4393,7 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-rj5Rd9qf0g {
-  padding-top: 120px;
+  padding-top: 60px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
@@ -4879,7 +4879,7 @@ body {
   color: #767676;
 }
 .cid-rbOE8Q0jJi {
-  padding-top: 120px;
+  padding-top: 60px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
