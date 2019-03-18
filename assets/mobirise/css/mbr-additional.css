@@ -5477,28 +5477,6 @@ body {
   text-align: left;
   color: #232323;
 }
-.cid-rkph3BUaLM {
-  background: #ffffff;
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background: linear-gradient(0deg, #ffffff, #ffffff);
-}
-.cid-rkph3BUaLM .image-block {
-  margin: auto;
-}
-.cid-rkph3BUaLM figcaption {
-  position: relative;
-}
-.cid-rkph3BUaLM figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-rkph3BUaLM .image-block {
-    width: 100% !important;
-  }
-}
 .cid-rkphkEPmNt {
   background: #ffffff;
   padding-top: 0px;
@@ -5524,7 +5502,7 @@ body {
 .cid-rkphl7mGMU {
   background: #ffffff;
   padding-top: 0px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background: linear-gradient(0deg, #ffffff, #ffffff);
 }
 .cid-rkphl7mGMU .image-block {
@@ -5540,6 +5518,72 @@ body {
 }
 @media (max-width: 768px) {
   .cid-rkphl7mGMU .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rl1uTis7Ll {
+  background: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-rl1uTis7Ll .image-block {
+  margin: auto;
+}
+.cid-rl1uTis7Ll figcaption {
+  position: relative;
+}
+.cid-rl1uTis7Ll figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rl1uTis7Ll .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rl1uTMhMGx {
+  background: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-rl1uTMhMGx .image-block {
+  margin: auto;
+}
+.cid-rl1uTMhMGx figcaption {
+  position: relative;
+}
+.cid-rl1uTMhMGx figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rl1uTMhMGx .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rl1uUcxTnm {
+  background: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-rl1uUcxTnm .image-block {
+  margin: auto;
+}
+.cid-rl1uUcxTnm figcaption {
+  position: relative;
+}
+.cid-rl1uUcxTnm figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rl1uUcxTnm .image-block {
     width: 100% !important;
   }
 }
