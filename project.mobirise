@@ -35,9 +35,10 @@
     "uniqCompNum": 19,
     "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/foto-op-16-03-19-om-20.54-5-128x141-1.png",
     "noImageResize": "",
-    "google-analytics": ""
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-138569280-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-138569280-1');\r\n</script>",
+    "сanonical-url": ""
   },
   "pages": {
     "index.html": {
