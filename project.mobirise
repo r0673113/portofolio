@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ONLINE PORTOFOLIO",
-    "currentPage": "page7.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -32,7 +32,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 16,
+    "uniqCompNum": 8,
     "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-ka-128x128-1.png",
