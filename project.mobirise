@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ONLINE PORTOFOLIO",
-    "currentPage": "een.zoektocht.naar.woorden.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -38,7 +38,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/logo-ka-128x128-1.png",
     "noImageResize": "true",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-138569280-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-138569280-1');\r\n</script>",
-    "сanonical-url": "",
+    "сanonical-url": "https://r0673113.github.io/portofolio/privacy.html",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
   },
